@@ -4,6 +4,9 @@ parts:
   - caption: Preamble
     chapters:
       - file: notebooks/how-to-cite
-  - caption: Introduction
+  - caption: CAO Identification
     chapters:
-      - file: notebooks/notebook-template
+      - file: notebooks/CAO_Identification
+  - caption: Cloud Comparisons
+    chapters:
+      - file: notebooks/cloud_comparison.ipynb
