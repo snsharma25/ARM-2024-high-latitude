@@ -5,3 +5,9 @@ dependencies:
   - jupyter-book
   - jupyterlab
   - sphinx-pythia-theme
+  - act
+  - numpy
+  - xarray
+  - matplotlib.pyplot
+  - datetime.datetime
+  - pyart
