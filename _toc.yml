@@ -10,3 +10,6 @@ parts:
   - caption: Cloud Comparisons
     chapters:
       - file: notebooks/cloud_comparison.ipynb
+  - caption: Wind/CAO Index Correlation
+    chapters:
+      - file: notebooks/wind-rose.ipynb
