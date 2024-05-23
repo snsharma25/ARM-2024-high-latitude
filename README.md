@@ -1,14 +1,13 @@
 <img src="thumbnail.png" alt="thumbnail" width="300"/>
 
-# (Replace_with_your_title) Cookbook
+# ARM Summer School 2024 High Latitude Project Cookbook
 
-[![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
-[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
-[![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
+This Project Pythia Cookbook covers an analysis of the ARM NSA (Alaska) and ANX (COMBLE campaign) sites.
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+## Science Questions:
 
-## Motivation
+1. How do aerosol (concentration, CCN, IN) conditions vary between the sites and is there a corresponding difference in CDNC?
+2. How do boundary layer (surface fluxes, turbulence) and cloud structures (cell type, characteristic size, phase) vary between sites?
 
 (Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
 
